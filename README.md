@@ -29,6 +29,18 @@ The application uses Next.js 14, React 18 and TypeScript. The interface uses Tai
 
 The Next.js operations console uses domain-focused services to connect to Supabase authentication, realtime updates and PostgreSQL. Database functions support multi-step transactional workflows. See the [high-level architecture and system context](docs/architecture.md).
 
+## Screenshot gallery
+
+These views use existing PlayOS interface captures. Customer, child, staff and financial fields were covered with opaque pixels before export.
+
+### Check-in and session tracking
+
+![PlayOS check-in and live session tracking with customer and session records masked](docs/screenshots/check-in-and-sessions.png)
+
+### Point of sale and reporting
+
+![PlayOS retail point of sale, daily close and reporting with financial records masked](docs/screenshots/point-of-sale-and-reporting.png)
+
 ## Project status
 
 PlayOS is the portfolio brand for the operational application. This public repository provides a product overview. The application source code is proprietary. Live operating records and customer data are excluded from the portfolio.
